@@ -1,2 +1,2 @@
-# tiles-launcher
+# Tiles
 
